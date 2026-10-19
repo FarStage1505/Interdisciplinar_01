@@ -1,0 +1,17 @@
+# Installed dependencies and generated output
+node_modules/
+dist/
+coverage/
+qa/
+
+# Private local data and configuration
+data/
+.env
+.env.*
+!.env.example
+
+# Logs, archives and operating system files
+*.log
+*.zip
+.DS_Store
+Thumbs.db
